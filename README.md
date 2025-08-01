@@ -11,7 +11,7 @@ The system offers the following functionalities:
     * Vehicle Exit: Processes vehicle departures, calculates parking fees, and updates statistics.
     * Membership Handling: Supports `Premium`, `Gold`, and `No Membership` tiers, potentially affecting parking fees.
 * **Parking Space Management:**
-    * Assigns and tracks the status (free/occupied) of up to 50 parking spaces.
+    * Assigns and tracks the status (free/occupied) of up to 50 parking spaces.(scalable)
 * **Data Persistence:**
     * Loads initial vehicle and parking space data from `file.txt`.
     * Generates comprehensive reports and logs system activities to `output.txt`.
