@@ -1,4 +1,4 @@
-# Smart Car Parking System
+# Scalable Parking Management System
 
 This repository contains a C implementation of a Smart Car Parking System, designed to manage vehicle parking and space occupancy efficiently. The system leverages B+ Tree data structures for optimized storage and retrieval of vehicle and parking space information, enabling fast lookups and reporting functionalities.
 
